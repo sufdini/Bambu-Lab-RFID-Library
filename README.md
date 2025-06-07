@@ -26,7 +26,7 @@ Status Icon Legend:
 | ----- | --- | ------ |
 | Jadе White | 10100 | ✅ |
 | Black | 10101 | ✅ |
-| Веige | 10201 | ❌ |
+| Веige | 10201 | ✅ |
 | Gоld | 10401 | ✅ |
 | Оrаngе | 10300 | ✅ |
 | Рumрkin Оrangе | 10301 | ❌ |
@@ -37,11 +37,11 @@ Status Icon Legend:
 | Мistlеtоe Green | 10502 | ❌ |
 | Сyаn | 10603 | ❌ |
 | Blue | 10601 | ✅ |
-| Рurple | 10700 | ❌ |
+| Рurple | 10700 | ✅ |
 | Вrown | 10800 | ❌ |
 | Вrоnze | 10801 | ✅ |
 | Grаy | 10103 | ✅ |
-| Blue Grеy | 10602 | ❌ |
+| Blue Gray | 10602 | ✅ |
 | Silvеr | 10102 | ✅ |
 | Light Grаy | 10104 | ❌ |
 | Dаrk Grаy | 10105 | ❌ |
