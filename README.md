@@ -157,10 +157,10 @@ Status Icon Legend:
 | Color | Filament Code | Status |
 | ----- | --- | ------ |
 | Velvet Eclipse (Black-Red) | ? | ❌ |
-| Midnight Blaze (Blue-Red) | ? | ✅ |
-| Neon City (Blue-Magenta) | ? | ✅ |
+| Midnight Blaze (Blue-Red) | 13902 | ✅ |
+| Neon City (Blue-Magenta) | 13903 | ✅ |
 | Gilded Rose (Pink-Gold) | ? | ✅ |
-| Blue Hawaii (Blue-Green) | ? | ✅ |
+| Blue Hawaii (Blue-Green) | 13904 | ✅ |
 | South Beach | 13906 | ❌ |
 | Aurora Purple | 13909 | ❌ |
 | Dawn Radiance | 13912 | ❌ |
