@@ -55,6 +55,18 @@ Status Icon Legend:
 | Indigо Рurрlе | 10701 | ❌ |
 | Сосоа Вrоwn | 10802 | ❌ |
 
+#### PLA Lite
+
+| Color | Filament Code | Status |
+| ----- | --- | ------ |
+| Black  | 16100 | ❌ |
+| Gray | 16101 | ❌ |
+| White | 16103 | ✅ |
+| Red | 16200 | ❌ |
+| Yellow | 16101 | ❌ |
+| Sky Blue | 16101 | ❌ |
+
+
 #### PLA Matte 
 
 | Color | Filament Code | Status |
@@ -277,9 +289,9 @@ Status Icon Legend:
 
 | Color | Filament Code | Status |
 | ----- | --- | ------ |
-| White | 45100 | ❌ |
+| White | 45100 | ✅ |
 | Green | 45500 | ❌ |
-| Black | 45101 | ❌ |
+| Black | 45101 | ✅ |
 | Gray | 45102 | ✅ |
 | Red | 45200 | ❌ |
 | Black | 45600 | ❌ |
@@ -304,7 +316,7 @@ Status Icon Legend:
 | ----- | --- | ------ |
 | Transparent | 60103 | ❌ |
 | Clear Black | 60102 | ❌ |
-| Black | 60101 | ❌ |
+| Black | 60101 | ✅ |
 | White | 60100 | ✅ |
 
 #### PC FR
@@ -355,7 +367,7 @@ Status Icon Legend:
 | Support for PLA/PETG (prev. Support W) | Nature (prev. White…?) | 65102 | ✅ |
 | Support for PLA/PETG | Black | 65103 | ✅ |
 | Support for PLA (New Version) | White | 65104 | ❌ |
-| Support for ABS | White | 66100 | ❌ |
+| Support for ABS | White | 66100 | ✅ |
 | Support for PA/PET | Green | 65500 | ❌ |
 | PVA (water-soluble support) | Clear | 66400 | ❌ |
 
