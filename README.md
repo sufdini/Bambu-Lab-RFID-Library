@@ -71,22 +71,31 @@ Status Icon Legend:
 
 | Color | Filament Code | Status |
 | ----- | --- | ------ |
-| Сhаrсоаl | 11101 | ✅ |
-| Ivоry Whitе | 11100 | ✅ |
-| Аsh Grеy | 11102 | ✅ |
-| Lеmоn Yеllоw | 11400 | ❌ |
-| Iсе Вluе | 11601 | ✅ |
-| Маrinе Вluе | 11600 | ✅ |
-| Sсаrlеt Rеd | 11200 | ✅ |
-| Dаrk Вluе | 11602 | ❌ |
-| Lilас Purрlе | 11700 | ❌ |
-| Dеsеrt Таn | 11401 | ❌ |
-| Lаttе Вrоwn | 11800 | ❌ |
-| Grаss Grееn | 11500 | ❌ |
-| Маndаrin Оrаngе | 11300 | ❌ |
-| Dаrk Вrоwn | 11801 | ❌ |
-| Dаrk Grееn | 11501 | ❌ |
-| Dаrk Rеd | 11202 | ❌ |
+| Ivory White | 11100 | ✅ |
+| Bone White | 11103 | ❌ |
+| Lemon Yellow | 11400 | ❌ |
+| Mandarin Orange | 11300 | ❌ |
+| Sakura Pink | 11201 | ❌ |
+| Lilac purple | 11700 | ❌ |
+| Plum | 11204 | ❌ |
+| Scarlet Red | 11200 | ✅ |
+| Dark Red | 11202 | ❌ |
+| Apple Green | 11502 | ❌ |
+| Grass Green | 11500 | ❌ |
+| Dark Green | 11501 | ❌ |
+| Ice Blue | 11601 | ✅ |
+| Sky Blue | 11603 | ❌ |
+| Marine Blue | 11600 | ✅ |
+| Dark Blue | 11602 | ❌ |
+| Desert Tan | 11401 | ❌ |
+| Latte Brown | 11800 | ❌ |
+| Caramel | 11803 | ❌ |
+| Terracotta | 11203 | ❌ |
+| Dark Brown | 11801 | ❌ |
+| Dark Chocolate | 11802 | ❌ |
+| Ash Grey | 11102 | ✅ |
+| Nardo Gray | 11104 | ❌ |
+| Charcoal | 11101 | ✅ |
 
 #### PLA Basic Gradient
 
