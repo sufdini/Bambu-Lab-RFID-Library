@@ -4,6 +4,8 @@ This repository contains a collection of RFID tag scans from Bambu Lab filament 
 
 For more information about Bambu Lab RFID tags and their format, see https://github.com/Bambu-Research-Group/RFID-Tag-Guide.
 
+For a quick guide on creating your own clone tag with a dump file from this library or your own, see [Quick Guide on Tag Cloning](./WriteTag.md)
+
 ## Contributing
 
 The best way to contribute is to provide data for Bambu Lab RFID tags.  Not sure how to obtain the data?  Check out the [guide written in the Bambu Research Group RFID Tag Guide repository](https://github.com/Bambu-Research-Group/RFID-Tag-Guide/tree/queengooborg?tab=readme-ov-file#hacking-a-bambu-lab-tag-and-readout-of-its-data)!
