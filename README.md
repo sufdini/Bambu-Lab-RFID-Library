@@ -259,7 +259,7 @@ Status Icon Legend:
 | Вriсk Rеd | 31200 | ❌ |
 | Indigо Вluе | 31600 | ❌ |
 | Маlасhitе Grееn | 31500 | ❌ |
-| Вlасk | 31100 | ❌ |
+| Вlасk | 31100 | ✅ |
 
 ### ABS
 
