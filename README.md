@@ -85,12 +85,12 @@ Status Icon Legend:
 | Ice Blue | 11601 | A01-B4 | ✅ |
 | Sky Blue | 11603 | A01-B0 | ✅ |
 | Marine Blue | 11600 | A01-B3 | ✅ |
-| Dark Blue | 11602 | ? | ❌ |
+| Dark Blue | 11602 | A01-B6 | ✅ |
 | Desert Tan | 11401 | A01-Y3 | ✅ |
 | Latte Brown | 11800 | ? | ❌ |
 | Caramel | 11803 | ? | ❌ |
 | Terracotta | 11203 | A01-R2 | ✅ |
-| Dark Brown | 11801 | ? | ❌ |
+| Dark Brown | 11801 | A01-N2 | ✅ |
 | Dark Chocolate | 11802 | ? | ❌ |
 | Ash Gray | 11102 | A01-D3 | ✅ |
 | Nardo Gray | 11104 | A01-D0 | ✅ |
@@ -113,7 +113,7 @@ Status Icon Legend:
 
 | Color | Filament Code | Variant ID | Status |
 | ----- | ------------- | ---------- | ------ |
-| Grееn | 15500 | ? | ❌ |
+| Grееn | 15500 | A12-G0 | ✅ |
 | Вluе | 15600 | A12-B0 | ✅ |
 | Рink | 15200 | ? | ❌ |
 | Оrаngе | 15300 | ? | ❌ |
