@@ -20,7 +20,7 @@ Status Icon Legend:
 
 ### PLA
 
-#### PLA Basic 
+#### PLA Basic
 
 | Color | Filament Code | Status |
 | ----- | --- | ------ |
