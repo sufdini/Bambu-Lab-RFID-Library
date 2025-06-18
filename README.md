@@ -66,7 +66,6 @@ Status Icon Legend:
 | Yellow | 16101 | ❌ |
 | Sky Blue | 16101 | ❌ |
 
-
 #### PLA Matte 
 
 | Color | Filament Code | Status |
