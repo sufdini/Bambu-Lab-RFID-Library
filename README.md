@@ -24,8 +24,8 @@ Status Icon Legend:
 
 | Color | Filament Code | Variant ID | Status |
 | ----- | ------------- | ---------- | ------ |
-| Jadе White | 10100 | A00-G1, A00-W1 | ✅ |
-| Black | 10101 | A00-K0, A01-K1 | ✅ |
+| Jadе White | 10100 | A00-W1 | ✅ |
+| Black | 10101 | A00-K0 | ✅ |
 | Веige | 10201 | A00-P0 | ✅ |
 | Gоld | 10401 | A00-Y4 | ✅ |
 | Оrаngе | 10300 | A00-A0 | ✅ |
