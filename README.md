@@ -371,7 +371,7 @@ Status Icon Legend:
 
 | Material | Color | Filament Code | Variant ID | Status |
 | -------- | ----- | ------------- | ---------- | ------ |
-| Support for PLA/PETG (prev. Support W) | Nature (prev. White…?) | 65102 | S00-W0, S02-W0 | ✅ |
+| Support for PLA/PETG (prev. Support W) | Nature (prev. White…?) | 65102 | S02-W0 (Old: S00-W0) | ✅ |
 | Support for PLA/PETG | Black | 65103 | S05-C0 | ✅ |
 | Support for PLA (New Version) | White | 65104 | ? | ❌ |
 | Support for ABS | White | 66100 | S06-W0 | ✅ |
