@@ -203,12 +203,12 @@ Status Icon Legend:
 
 | Color | Filament Code | Variant ID | Status |
 | ----- | ------------- | ---------- | ------ |
-| Вlасk Wаlnut | 13107 | ? | ❌ |
+| Вlасk Wаlnut | 13107 | A16-K0 | ✅ |
 | Rоsеwооd | 13204 | ? | ❌ |
-| Сlаy Вrоwn | 13801 | ? | ❌ |
-| Сlаssiс Вirсh | 13505 | ? | ❌ |
-| Whitе Оаk | 13106 | ? | ❌ |
-| Осhrе Yеllоw | 13403 | ? | ❌ |
+| Сlаy Вrоwn | 13801 | A16-N0 | ✅ |
+| Сlаssiс Вirсh | 13505 | A16-G0 | ✅ |
+| Whitе Оаk | 13106 | A16-W0 | ✅ |
+| Осhrе Yеllоw | 13403 | A16-Y0 | ✅ |
 
 #### PLA-CF (prev. PLA Tough...?)
 
@@ -363,7 +363,7 @@ Status Icon Legend:
 
 | Color | Filament Code | Variant ID | Status |
 | ----- | ------------- | ---------- | ------ |
-| Blue | 72600 | ? | ❌ |
+| Blue | 72600 | N08-K0 | ✅ |
 | Orange | 72200 | ? | ❌ |
 | Yellow | 72400 | ? | ❌ |
 | Lime | 72500 | ? | ❌ |
