@@ -151,7 +151,7 @@ Status Icon Legend:
 | Irоn Grаy Меtаlliс | 13100 | ? | ❌ |
 | Сорреr Вrоwn Меtаlliс | 13800 | ? | ❌ |
 | Охidе Grееn Меtаlliс | 13500 | ? | ❌ |
-| Соbаlt Вluе Меtаlliс | 13600 | ? | ❌ |
+| Соbаlt Вluе Меtаlliс | 13600 | A02-B2 | ✅ |
 | Iridium Gоld Меtаlliс | 13400 | ? | ❌ |
 
 #### PLA Silk+ (prev. PLA Silk)
@@ -244,7 +244,7 @@ Status Icon Legend:
 | ----- | ------------- | ---------- | ------ |
 | Translucent Теаl | 32501 | G01-G1 | ✅ |
 | Translucent Light Blue | 32600 | ? | ❌ |
-| Clear | 32101 | ? | ❌ |
+| Clear | 32101 | G01-C0 | ✅ |
 | Translucent Оlivе | 32500 | G01-G0 | ✅ |
 | Translucent Оrаngе | 32300 | G01-A0 | ✅ |
 | Translucent Рurрlе | 32700 | G01-P0 | ✅ |
