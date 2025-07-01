@@ -319,7 +319,7 @@ Status Icon Legend:
 
 ### PC
 
-#### PC 
+#### PC
 
 | Color | Filament Code | Variant ID | Status |
 | ----- | ------------- | ---------- | ------ |
@@ -350,7 +350,7 @@ Status Icon Legend:
 
 ### PA
 
-#### PAHT-CF 
+#### PAHT-CF
 
 | Color | Filament Code | Variant ID | Status |
 | ----- | ------------- | ---------- | ------ |
