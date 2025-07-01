@@ -148,11 +148,11 @@ Status Icon Legend:
 
 | Color | Filament Code | Variant ID | Status |
 | ----- | ------------- | ---------- | ------ |
-| Irоn Grаy Меtаlliс | 13100 | ? | ❌ |
-| Сорреr Вrоwn Меtаlliс | 13800 | ? | ❌ |
-| Охidе Grееn Меtаlliс | 13500 | ? | ❌ |
 | Соbаlt Вluе Меtаlliс | 13600 | A02-B2 | ✅ |
+| Охidе Grееn Меtаlliс | 13500 | ? | ❌ |
 | Iridium Gоld Меtаlliс | 13400 | ? | ❌ |
+| Сорреr Вrоwn Меtаlliс | 13800 | ? | ❌ |
+| Irоn Grаy Меtаlliс | 13100 | ? | ❌ |
 
 #### PLA Silk+ (prev. PLA Silk)
 
