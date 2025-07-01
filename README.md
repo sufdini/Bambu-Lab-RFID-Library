@@ -242,13 +242,15 @@ Status Icon Legend:
 
 | Color | Filament Code | Variant ID | Status |
 | ----- | ------------- | ---------- | ------ |
-| Grаy | 32100 | G01-D0 | ✅ |
-| Оlivе | 32500 | G01-G0 | ✅ |
-| Вrоwn | 32800 | G01-N0 | ✅ |
-| Теаl | 32501 | G01-G1 | ✅ |
-| Оrаngе | 32300 | G01-A0 | ✅ |
-| Рurрlе | 32700 | G01-P0 | ✅ |
-| Рink | 32200 | G01-P1 | ✅ |
+| Translucent Теаl | 32501 | G01-G1 | ✅ |
+| Translucent Light Blue | 32600 | ? | ❌ |
+| Clear | 32101 | ? | ❌ |
+| Translucent Оlivе | 32500 | G01-G0 | ✅ |
+| Translucent Оrаngе | 32300 | G01-A0 | ✅ |
+| Translucent Рurрlе | 32700 | G01-P0 | ✅ |
+| Translucent Рink | 32200 | G01-P1 | ✅ |
+| Translucent Grаy | 32100 | G01-D0 | ✅ |
+| Translucent Вrоwn | 32800 | G01-N0 | ✅ |
 
 #### PETG-CF
 
