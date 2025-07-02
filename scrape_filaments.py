@@ -85,7 +85,7 @@ PLA_LITE_DATA = {
     "Sky Blue": '16101',
 }
 
-requests_cache.install_cache('bambulab_cache', expire_after=timedelta(days=1))
+requests_cache.install_cache('.bambulab_cache', expire_after=timedelta(days=1))
 
 # -----
 
