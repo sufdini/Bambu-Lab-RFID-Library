@@ -133,7 +133,7 @@ Status Icon Legend:
 | ----- | ------------- | ---------- | ------ |
 | White | 14102         | ?          | ❌     |
 | Gray  | 14104         | ?          | ❌     |
-| Black | ?             | A11-K0     | ✅     |
+| Black | 14103         | A11-K0     | ✅     |
 
 #### PLA Sparkle
 
