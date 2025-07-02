@@ -52,7 +52,7 @@ Status Icon Legend:
 | Bronze           | 10801         | A00-Y3     | ✅     |
 | Gray             | 10103         | A00-D0     | ✅     |
 | Silver           | 10102         | A00-D1     | ✅     |
-| Blue Gray        | 10602         | A00-B1     | ✅     |
+| Blue Grey        | 10602         | A00-B1     | ✅     |
 | Dark Gray        | 10105         | A00-D3     | ✅     |
 | Black            | 10101         | A00-K0     | ✅     |
 
@@ -93,7 +93,7 @@ Status Icon Legend:
 | Terracotta      | 11203         | A01-R2     | ✅     |
 | Dark Brown      | 11801         | A01-N2     | ✅     |
 | Dark Chocolate  | 11802         | A01-N0     | ✅     |
-| Ash Gray        | 11102         | A01-D3     | ✅     |
+| Ash Grey        | 11102         | A01-D3     | ✅     |
 | Nardo Gray      | 11104         | A01-D0     | ✅     |
 | Charcoal        | 11101         | A01-K1     | ✅     |
 
@@ -144,6 +144,7 @@ Status Icon Legend:
 | Royal Purple Sparkle | 13700         | A08-B7     | ✅     |
 | Crimson Red Sparkle  | 13200         | ?          | ❌     |
 | Onyx Black Sparkle   | 13101         | ?          | ❌     |
+| Classic Gold Sparkle | 13402         | ?          | ❌     |
 
 #### PLA Metal
 
@@ -155,7 +156,7 @@ Status Icon Legend:
 | Copper Brown Metallic | 13800         | ?          | ❌     |
 | Iron Gray Metallic    | 13100         | ?          | ❌     |
 
-#### PLA Silk+ (prev. PLA Silk)
+#### PLA Silk+
 
 | Color       | Filament Code | Variant ID      | Status |
 | ----------- | ------------- | --------------- | ------ |
@@ -173,18 +174,18 @@ Status Icon Legend:
 | Silver      | 13109         | A06-D1          | ✅     |
 | Gold        | 13405         | A06-Y1          | ✅     |
 
-#### PLA Silk Multi-Color (prev. Silk Dual Color)
+#### PLA Silk Multi-Color
 
 | Color                      | Filament Code | Variant ID | Status |
 | -------------------------- | ------------- | ---------- | ------ |
-| Velvet Eclipse (Black-Red) | 13905         | A05-T5     | ✅     |
-| Midnight Blaze (Blue-Red)  | 13902         | A05-T2     | ✅     |
+| Dawn Radiance              | 13912         | ?          | ❌     |
+| Aurora Purple              | 13909         | ?          | ❌     |
+| South Beach                | 13906         | ?          | ❌     |
 | Neon City (Blue-Magenta)   | 13903         | A05-T3     | ✅     |
+| Midnight Blaze (Blue-Red)  | 13902         | A05-T2     | ✅     |
 | Gilded Rose (Pink-Gold)    | 13901         | A05-T1     | ✅     |
 | Blue Hawaii (Blue-Green)   | 13904         | A05-T4     | ✅     |
-| South Beach                | 13906         | ?          | ❌     |
-| Aurora Purple              | 13909         | ?          | ❌     |
-| Dawn Radiance              | 13912         | ?          | ❌     |
+| Velvet Eclipse (Black-Red) | 13905         | A05-T5     | ✅     |
 
 #### PLA Galaxy
 
@@ -206,7 +207,7 @@ Status Icon Legend:
 | White Oak     | 13106         | A16-W0     | ✅     |
 | Ochre Yellow  | 13403         | A16-Y0     | ✅     |
 
-#### PLA-CF (prev. PLA Tough...?)
+#### PLA-CF
 
 | Color        | Filament Code | Variant ID | Status |
 | ------------ | ------------- | ---------- | ------ |
@@ -220,24 +221,24 @@ Status Icon Legend:
 
 ### PETG
 
-#### PETG HF (superseded PETG Basic)
+#### PETG HF
 
-| Color               | Filament Code | Variant ID | Status |
-| ------------------- | ------------- | ---------- | ------ |
-| Red                 | 33200         | G02-R0     | ✅     |
-| Blue                | 33600         | G02-B0     | ✅     |
-| Black               | 33102         | G02-K0     | ✅     |
-| White               | 33100         | G02-W0     | ✅     |
-| Gray (prev. Silver) | 33101         | G02-D0     | ✅     |
-| Yellow              | 33400         | G02-Y0     | ✅     |
-| Orange              | 33300         | G02-A0     | ✅     |
-| Green               | 33500         | G02-G0     | ✅     |
-| Forest Green        | 33502         | G02-G2     | ✅     |
-| Peanut Brown        | 33801         | G02-N1     | ✅     |
-| Dark Gray           | 33103         | G02-D1     | ✅     |
-| Cream               | 33401         | G02-Y1     | ✅     |
-| Lime Green          | 33501         | G02-G1     | ✅     |
-| Lake Blue           | 33601         | G02-B1     | ✅     |
+| Color        | Filament Code | Variant ID | Status |
+| ------------ | ------------- | ---------- | ------ |
+| Red          | 33200         | G02-R0     | ✅     |
+| Blue         | 33600         | G02-B0     | ✅     |
+| Black        | 33102         | G02-K0     | ✅     |
+| White        | 33100         | G02-W0     | ✅     |
+| Gray         | 33101         | G02-D0     | ✅     |
+| Yellow       | 33400         | G02-Y0     | ✅     |
+| Orange       | 33300         | G02-A0     | ✅     |
+| Green        | 33500         | G02-G0     | ✅     |
+| Forest Green | 33502         | G02-G2     | ✅     |
+| Peanut Brown | 33801         | G02-N1     | ✅     |
+| Dark Gray    | 33103         | G02-D1     | ✅     |
+| Cream        | 33401         | G02-Y1     | ✅     |
+| Lime Green   | 33501         | G02-G1     | ✅     |
+| Lake Blue    | 33601         | G02-B1     | ✅     |
 
 #### PETG Translucent
 
@@ -259,6 +260,7 @@ Status Icon Legend:
 | --------------- | ------------- | ---------- | ------ |
 | Indigo Blue     | 31600         | ?          | ❌     |
 | Malachite Green | 31500         | ?          | ❌     |
+| Titan Gray      | 31101         | ?          | ❌     |
 | Brick Red       | 31200         | ?          | ❌     |
 | Violet Purple   | 31700         | ?          | ❌     |
 | Black           | 31100         | G50-K0     | ✅     |
@@ -305,6 +307,7 @@ Status Icon Legend:
 | Black | 45101         | B01-K0     | ✅     |
 | Gray  | 45102         | B01-D0     | ✅     |
 | Red   | 45200         | ?          | ❌     |
+| Blue  | 45600         | ?          | ❌     |
 
 #### ASA Aero
 
@@ -337,7 +340,9 @@ Status Icon Legend:
 | White | 63101         | ?          | ❌     |
 | Gray  | 63102         | ?          | ❌     |
 
-### TPU (for AMS)
+### TPU
+
+#### TPU for AMS
 
 | Color      | Filament Code | Variant ID | Status |
 | ---------- | ------------- | ---------- | ------ |
@@ -372,14 +377,36 @@ Status Icon Legend:
 
 ### Support Material
 
-| Material                               | Color                  | Filament Code | Variant ID           | Status |
-| -------------------------------------- | ---------------------- | ------------- | -------------------- | ------ |
-| Support for PLA/PETG (prev. Support W) | Nature (prev. White…?) | 65102         | S02-W0 (Old: S00-W0) | ✅     |
-| Support for PLA/PETG                   | Black                  | 65103         | S05-C0               | ✅     |
-| Support for PLA (New Version)          | White                  | 65104         | ?                    | ❌     |
-| Support for ABS                        | White                  | 66100         | S06-W0               | ✅     |
-| Support for PA/PET                     | Green                  | 65500         | ?                    | ❌     |
-| PVA (water-soluble support)            | Clear                  | 66400         | ?                    | ❌     |
+#### Support for PLA/PETG
+
+| Color  | Filament Code | Variant ID           | Status |
+| ------ | ------------- | -------------------- | ------ |
+| Nature | 65102         | S02-W0 (Old: S00-W0) | ✅     |
+| Black  | 65103         | S05-C0               | ✅     |
+
+#### Support for PLA (New Version)
+
+| Color | Filament Code | Variant ID           | Status |
+| ----- | ------------- | -------------------- | ------ |
+| White | 65104         | ?                    | ❌     |
+
+#### Support for ABS
+
+| Color | Filament Code | Variant ID           | Status |
+| ----- | ------------- | -------------------- | ------ |
+| White | 66100         | S06-W0               | ✅     |
+
+#### Support for PA/PET
+
+| Color | Filament Code | Variant ID           | Status |
+| ----- | ------------- | -------------------- | ------ |
+| Green | 65500         | ?                    | ❌     |
+
+#### PVA
+
+| Color | Filament Code | Variant ID           | Status |
+| ----- | ------------- | -------------------- | ------ |
+| Clear | 66400         | ?                    | ❌     |
 
 ## History
 
