@@ -26,35 +26,35 @@ Status Icon Legend:
 | Color            | Filament Code | Variant ID | Status |
 | ---------------- | ------------- | ---------- | ------ |
 | Jade White       | 10100         | A00-W1     | ✅     |
-| Black            | 10101         | A00-K0     | ✅     |
 | Beige            | 10201         | A00-P0     | ✅     |
-| Gold             | 10401         | A00-Y4     | ✅     |
-| Orange           | 10300         | A00-A0     | ✅     |
-| Pumpkin Orange   | 10301         | A00-A1     | ✅     |
-| Pink             | 10203         | A00-A0     | ✅     |
-| Red              | 10200         | A00-R0     | ✅     |
-| Magenta          | 10202         | A00-P6     | ✅     |
-| Bambu Green      | 10501         | A00-G1     | ✅     |
-| Mistletoe Green  | 10502         | A00-G2     | ✅     |
-| Cyan             | 10603         | A00-B8     | ✅     |
-| Blue             | 10601         | A09-B4     | ✅     |
-| Purple           | 10700         | A00-P5     | ✅     |
-| Brown            | 10800         | A00-N0     | ✅     |
-| Bronze           | 10801         | A00-Y3     | ✅     |
-| Gray             | 10103         | A00-D0     | ✅     |
-| Blue Gray        | 10602         | A00-B1     | ✅     |
-| Silver           | 10102         | A00-D1     | ✅     |
 | Light Gray       | 10104         | A00-D2     | ✅     |
-| Dark Gray        | 10105         | A00-D3     | ✅     |
 | Yellow           | 10400         | A00-Y0     | ✅     |
 | Sunflower Yellow | 10402         | A00-Y2     | ✅     |
-| Hot Pink         | 10204         | A00-R3     | ✅     |
+| Pumpkin Orange   | 10301         | A00-A1     | ✅     |
+| Orange           | 10300         | A00-A0     | ✅     |
+| Gold             | 10401         | A00-Y4     | ✅     |
 | Bright Green     | 10503         | A00-G3     | ✅     |
-| Turquoise        | 10605         | A00-B5     | ✅     |
+| Bambu Green      | 10501         | A00-G1     | ✅     |
+| Mistletoe Green  | 10502         | A00-G2     | ✅     |
+| Pink             | 10203         | A00-A0     | ✅     |
+| Hot Pink         | 10204         | A00-R3     | ✅     |
+| Magenta          | 10202         | A00-P6     | ✅     |
+| Red              | 10200         | A00-R0     | ✅     |
 | Maroon Red       | 10205         | A00-R2     | ✅     |
-| Cobalt Blue      | 10604         | A00-B3     | ✅     |
+| Purple           | 10700         | A00-P5     | ✅     |
 | Indigo Purple    | 10701         | A00-P2     | ✅     |
+| Turquoise        | 10605         | A00-B5     | ✅     |
+| Cyan             | 10603         | A00-B8     | ✅     |
+| Cobalt Blue      | 10604         | A00-B3     | ✅     |
+| Blue             | 10601         | A09-B4     | ✅     |
+| Brown            | 10800         | A00-N0     | ✅     |
 | Cocoa Brown      | 10802         | A00-N1     | ✅     |
+| Bronze           | 10801         | A00-Y3     | ✅     |
+| Gray             | 10103         | A00-D0     | ✅     |
+| Silver           | 10102         | A00-D1     | ✅     |
+| Blue Gray        | 10602         | A00-B1     | ✅     |
+| Dark Gray        | 10105         | A00-D3     | ✅     |
+| Black            | 10101         | A00-K0     | ✅     |
 
 #### PLA Lite
 
@@ -101,24 +101,24 @@ Status Icon Legend:
 
 | Color               | Filament Code | Variant ID | Status |
 | ------------------- | ------------- | ---------- | ------ |
-| Arctic Whisper      | 10900         | A00-M0     | ✅     |
-| Solar Breeze        | 10901         | A00-M1     | ❌     |
-| Ocean to Meadow     | 10902         | A00-M2     | ❌     |
-| Cotton Candy Cloud  | 10907         | A00-M7     | ❌     |
-| Blueberry Bubblegum | 10905         | A00-M5     | ❌     |
-| Mint Lime           | 10904         | A00-M4     | ❌     |
 | Pink Citrus         | 10903         | A00-M3     | ✅     |
 | Dusk Glare          | 10906         | A00-M6     | ❌     |
+| Arctic Whisper      | 10900         | A00-M0     | ✅     |
+| Solar Breeze        | 10901         | A00-M1     | ❌     |
+| Blueberry Bubblegum | 10905         | A00-M5     | ❌     |
+| Mint Lime           | 10904         | A00-M4     | ❌     |
+| Ocean to Meadow     | 10902         | A00-M2     | ❌     |
+| Cotton Candy Cloud  | 10907         | A00-M7     | ❌     |
 
 #### PLA Glow
 
 | Color  | Filament Code | Variant ID | Status |
 | ------ | ------------- | ---------- | ------ |
 | Green  | 15500         | A12-G0     | ✅     |
-| Blue   | 15600         | A12-B0     | ✅     |
 | Pink   | 15200         | ?          | ❌     |
 | Orange | 15300         | ?          | ❌     |
 | Yellow | 15400         | ?          | ❌     |
+| Blue   | 15600         | A12-B0     | ✅     |
 
 #### PLA Marble
 
@@ -139,11 +139,11 @@ Status Icon Legend:
 
 | Color                | Filament Code | Variant ID | Status |
 | -------------------- | ------------- | ---------- | ------ |
-| Onyx Black Sparkle   | 13101         | ?          | ❌     |
-| Crimson Red Sparkle  | 13200         | ?          | ❌     |
 | Alpine Green Sparkle | 13501         | ?          | ❌     |
-| Royal Purple Sparkle | 13700         | A08-B7     | ✅     |
 | Slate Gray Sparkle   | 13102         | ?          | ❌     |
+| Royal Purple Sparkle | 13700         | A08-B7     | ✅     |
+| Crimson Red Sparkle  | 13200         | ?          | ❌     |
+| Onyx Black Sparkle   | 13101         | ?          | ❌     |
 
 #### PLA Metal
 
@@ -159,8 +159,7 @@ Status Icon Legend:
 
 | Color       | Filament Code | Variant ID      | Status |
 | ----------- | ------------- | --------------- | ------ |
-| Gold        | 13405         | A06-Y1          | ✅     |
-| Silver      | 13109         | A06-D1          | ✅     |
+| Pink        | 13207         | A06-R2          | ✅     |
 | Titan Gray  | 13108         | A06-D0          | ✅     |
 | Blue        | 13604         | A06-B1          | ✅     |
 | Purple      | 13702         | ? (Old: A05-P5) | ⏳     |
@@ -169,9 +168,10 @@ Status Icon Legend:
 | Rose Gold   | 13206         | A06-R1          | ✅     |
 | Baby Blue   | 13603         | ?               | ❌     |
 | Mint        | 13507         | A06-G1          | ✅     |
-| Pink        | 13207         | A06-R2          | ✅     |
 | Champagne   | 13404         | A06-Y0          | ✅     |
 | White       | 13110         | A06-W0          | ✅     |
+| Silver      | 13109         | A06-D1          | ✅     |
+| Gold        | 13405         | A06-Y1          | ✅     |
 
 #### PLA Silk Multi-Color (prev. Silk Dual Color)
 
@@ -211,10 +211,10 @@ Status Icon Legend:
 | Color        | Filament Code | Variant ID | Status |
 | ------------ | ------------- | ---------- | ------ |
 | Burgundy Red | 14200         | ?          | ❌     |
-| Jeans Blue   | 14600         | ?          | ❌     |
-| Lava Grey    | 14101         | ?          | ❌     |
-| Black        | 14100         | A50-K0     | ✅     |
 | Matcha Green | 14500         | ?          | ❌     |
+| Lava Gray    | 14101         | ?          | ❌     |
+| Jeans Blue   | 14600         | ?          | ❌     |
+| Black        | 14100         | A50-K0     | ✅     |
 | Royal Blue   | 14601         | ?          | ❌     |
 | Iris Purple  | 14700         | ?          | ❌     |
 
@@ -224,14 +224,14 @@ Status Icon Legend:
 
 | Color               | Filament Code | Variant ID | Status |
 | ------------------- | ------------- | ---------- | ------ |
+| Red                 | 33200         | G02-R0     | ✅     |
+| Blue                | 33600         | G02-B0     | ✅     |
 | Black               | 33102         | G02-K0     | ✅     |
 | White               | 33100         | G02-W0     | ✅     |
 | Gray (prev. Silver) | 33101         | G02-D0     | ✅     |
-| Red                 | 33200         | G02-R0     | ✅     |
-| Green               | 33500         | G02-G0     | ✅     |
-| Orange              | 33300         | G02-A0     | ✅     |
 | Yellow              | 33400         | G02-Y0     | ✅     |
-| Blue                | 33600         | G02-B0     | ✅     |
+| Orange              | 33300         | G02-A0     | ✅     |
+| Green               | 33500         | G02-G0     | ✅     |
 | Forest Green        | 33502         | G02-G2     | ✅     |
 | Peanut Brown        | 33801         | G02-N1     | ✅     |
 | Dark Gray           | 33103         | G02-D1     | ✅     |
@@ -250,17 +250,17 @@ Status Icon Legend:
 | Translucent Orange     | 32300         | G01-A0     | ✅     |
 | Translucent Purple     | 32700         | G01-P0     | ✅     |
 | Translucent Pink       | 32200         | G01-P1     | ✅     |
-| Translucent Gray       | 32100         | G01-D0     | ✅     |
 | Translucent Brown      | 32800         | G01-N0     | ✅     |
+| Translucent Gray       | 32100         | G01-D0     | ✅     |
 
 #### PETG-CF
 
 | Color           | Filament Code | Variant ID | Status |
 | --------------- | ------------- | ---------- | ------ |
-| Violet Purple   | 31700         | ?          | ❌     |
-| Brick Red       | 31200         | ?          | ❌     |
 | Indigo Blue     | 31600         | ?          | ❌     |
 | Malachite Green | 31500         | ?          | ❌     |
+| Brick Red       | 31200         | ?          | ❌     |
+| Violet Purple   | 31700         | ?          | ❌     |
 | Black           | 31100         | G50-K0     | ✅     |
 
 ### ABS
@@ -269,15 +269,15 @@ Status Icon Legend:
 
 | Color            | Filament Code | Variant ID | Status |
 | ---------------- | ------------- | ---------- | ------ |
-| Black            | 40101         | B00-K0     | ✅     |
-| Blue             | 40600         | B00-B0     | ✅     |
-| Red              | 40200         | B00-R0     | ✅     |
 | Silver           | 40102         | B00-D1     | ✅     |
+| Black            | 40101         | B00-K0     | ✅     |
 | White            | 40100         | B00-W0     | ✅     |
+| Red              | 40200         | B00-R0     | ✅     |
 | Bambu Green      | 40500         | B00-G6     | ✅     |
 | Orange           | 40300         | B00-A0     | ✅     |
 | Navy Blue        | 40602         | B00-B6     | ✅     |
 | Tangerine Yellow | 40402         | B00-Y1     | ✅     |
+| Blue             | 40600         | B00-B0     | ✅     |
 | Olive            | 40502         | B00-G7     | ✅     |
 | Azure            | 40601         | B00-B4     | ✅     |
 
@@ -341,13 +341,13 @@ Status Icon Legend:
 
 | Color      | Filament Code | Variant ID | Status |
 | ---------- | ------------- | ---------- | ------ |
-| Black      | 53101         | ?          | ❌     |
-| Gray       | 53102         | U02-D0     | ✅     |
-| White      | 53100         | ?          | ❌     |
 | Blue       | 53600         | U02-B0     | ✅     |
 | Red        | 53200         | ?          | ❌     |
 | Yellow     | 53400         | ?          | ❌     |
 | Neon Green | 53500         | ?          | ❌     |
+| White      | 53100         | ?          | ❌     |
+| Gray       | 53102         | U02-D0     | ✅     |
+| Black      | 53101         | ?          | ❌     |
 
 ### PA
 
