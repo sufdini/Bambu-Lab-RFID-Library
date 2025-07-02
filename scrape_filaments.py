@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+# Python script to scrape Bambu Lab storepage to get all material types and colors
+# Created for https://github.com/Bambu-Research-Group/RFID-Tag-Guide
+# Written by Vinyl Da.i'gyu-Kazotetsu (www.queengoob.org), 2025
+
 import time
 import csv
 import re
