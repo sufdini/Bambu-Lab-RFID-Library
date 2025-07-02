@@ -64,8 +64,8 @@ Status Icon Legend:
 | Gray     | 16101         | ?          | ❌     |
 | White    | 16103         | A18-W0     | ✅     |
 | Red      | 16200         | ?          | ❌     |
-| Yellow   | 16101         | ?          | ❌     |
-| Sky Blue | 16101         | ?          | ❌     |
+| Yellow   | 16400         | ?          | ❌     |
+| Sky Blue | 16102         | ?          | ❌     |
 
 #### PLA Matte
 

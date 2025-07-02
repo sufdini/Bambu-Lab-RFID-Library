@@ -87,8 +87,8 @@ PLA_LITE_DATA = {
     "Gray": '16101',
     "White": '16103',
     "Red": '16200',
-    "Yellow": '16101',
-    "Sky Blue": '16101',
+    "Yellow": '16400',
+    "Sky Blue": '16102',
 }
 
 requests_cache.install_cache('.bambulab_cache', expire_after=timedelta(days=1))
