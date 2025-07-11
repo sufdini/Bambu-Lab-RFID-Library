@@ -131,7 +131,7 @@ Status Icon Legend:
 
 | Color | Filament Code | Variant ID | Status |
 | ----- | ------------- | ---------- | ------ |
-| White | 14102         | ?          | ❌     |
+| White | 14102         | A11-W0     | ✅     |
 | Gray  | 14104         | ?          | ❌     |
 | Black | 14103         | A11-K0     | ✅     |
 
