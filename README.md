@@ -245,7 +245,7 @@ Status Icon Legend:
 | Color                  | Filament Code | Variant ID | Status |
 | ---------------------- | ------------- | ---------- | ------ |
 | Translucent Teal       | 32501         | G01-G1     | ✅     |
-| Translucent Light Blue | 32600         | ?          | ❌     |
+| Translucent Light Blue | 32600         | G01-B0     | ✅     |
 | Clear                  | 32101         | G01-C0     | ✅     |
 | Translucent Olive      | 32500         | G01-G0     | ✅     |
 | Translucent Orange     | 32300         | G01-A0     | ✅     |
@@ -262,7 +262,7 @@ Status Icon Legend:
 | Malachite Green | 31500         | ?          | ❌     |
 | Titan Gray      | 31101         | ?          | ❌     |
 | Brick Red       | 31200         | ?          | ❌     |
-| Violet Purple   | 31700         | ?          | ❌     |
+| Violet Purple   | 31700         | G50-P7     | ✅     |
 | Black           | 31100         | G50-K0     | ✅     |
 
 ### ABS
@@ -352,7 +352,7 @@ Status Icon Legend:
 | Neon Green | 53500         | ?          | ❌     |
 | White      | 53100         | ?          | ❌     |
 | Gray       | 53102         | U02-D0     | ✅     |
-| Black      | 53101         | ?          | ❌     |
+| Black      | 53101         | U02-K0     | ✅     |
 
 ### PA
 
