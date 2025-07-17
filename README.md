@@ -124,7 +124,7 @@ Status Icon Legend:
 
 | Color        | Filament Code | Variant ID | Status |
 | ------------ | ------------- | ---------- | ------ |
-| Red Granite  | 13201         | ?          | ❌     |
+| Red Granite  | 13201         | A07-R5     | ✅     |
 | White Marble | 13103         | ?          | ❌     |
 
 #### PLA Aero
@@ -406,7 +406,7 @@ Status Icon Legend:
 
 | Color | Filament Code | Variant ID           | Status |
 | ----- | ------------- | -------------------- | ------ |
-| Clear | 66400         | ?                    | ❌     |
+| Clear | 66400         | S04-Y0               | ✅     |
 
 ## History
 
