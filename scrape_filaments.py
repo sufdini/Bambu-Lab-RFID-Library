@@ -186,7 +186,7 @@ def get_materials():
 
     # Add overrides
     materials["PLA"]["PLA Lite"] = PLA_LITE_DATA
-    materials["PLA"]["PLA Aero"]["Black"] = "?"
+    materials["PLA"]["PLA Aero"]["Black"] = "14103"
 
     return materials
 
