@@ -221,6 +221,18 @@ Status Icon Legend:
 | Royal Blue   | 14601         | ?          | ❌     |
 | Iris Purple  | 14700         | ?          | ❌     |
 
+#### PLA Tough+
+
+| Color  | Filament Code | Variant ID | Status |
+| ------ | ------------- | ---------- | ------ |
+| Yellow | 12401         | ?          | ❌     |
+| White  | 12107         | ?          | ❌     |
+| Orange | 12301         | ?          | ❌     |
+| Gray   | 12105         | ?          | ❌     |
+| Silver | 12106         | ?          | ❌     |
+| Cyan   | 12601         | ?          | ❌     |
+| Black  | 12104         | ?          | ❌     |
+
 ### PETG
 
 #### PETG HF

@@ -36,7 +36,8 @@ CATEGORIES = {
         "PLA Silk Multi-Color",
         "PLA Galaxy",
         "PLA Wood",
-        "PLA-CF"
+        "PLA-CF",
+        "PLA Tough+"
     ],
     "PETG": [
         "PETG HF",
