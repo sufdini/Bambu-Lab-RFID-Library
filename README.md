@@ -2,11 +2,11 @@
 
 This repository contains a collection of RFID tag scans from Bambu Lab filament spools. The data can be used to create cloned tags for Bambu Lab printers or for research purposes.
 
-For more information about Bambu Lab RFID tags and their format, see https://github.com/Bambu-Research-Group/RFID-Tag-Guide.
+For more information about Bambu Lab RFID tags and their format, see https://github.com/queengooborg/Bambu-Lab-RFID-Tag-Guide.
 
 ## Contributing
 
-The best way to contribute is to provide data for Bambu Lab RFID tags. Not sure how to obtain the data? Check out the [guide written in the Bambu Research Group RFID Tag Guide repository](https://github.com/Bambu-Research-Group/RFID-Tag-Guide/tree/queengooborg?tab=readme-ov-file#hacking-a-bambu-lab-tag-and-readout-of-its-data)!
+The best way to contribute is to provide data for Bambu Lab RFID tags. Not sure how to obtain the data? Check out the [guide written in the Bambu Lab RFID Tag Guide repository](https://github.com/queengooborg/Bambu-Lab-RFID-Tag-Guide/blob/main/docs/ReadTags.md)!
 
 Tags are stored in the following folder structure: `Material Category` > `Material Name` > `Color Name` > `Tag UID` > `Tag Files`
 
