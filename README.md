@@ -25,38 +25,65 @@ Status Icon Legend:
 - ⏳: Tag data is for an older version of material
 
 ### 3DE Premium PLA 
-| Color            | Filament Code | Variant ID | Status |
-| ---------------- | ------------- | ---------- | ------ |
-| Jade White       | 10100         | A00-W1     | 🔨     |
-| Beige            | 10201         | A00-P0     | 🔨     |
-| Light Gray       | 10104         | A00-D2     | 🔨     |
-| Yellow           | 10400         | A00-Y0     | 🔨     |
-| Sunflower Yellow | 10402         | A00-Y2     | 🔨     |
-| Pumpkin Orange   | 10301         | A00-A1     | 🔨     |
-| Orange           | 10300         | A00-A0     | 🔨     |
-| Gold             | 10401         | A00-Y4     | 🔨     |
-| Bright Green     | 10503         | A00-G3     | 🔨     |
-| Bambu Green      | 10501         | A00-G1     | 🔨     |
-| Mistletoe Green  | 10502         | A00-G2     | 🔨     |
-| Pink             | 10203         | A00-A0     | 🔨     |
-| Hot Pink         | 10204         | A00-R3     | 🔨     |
-| Magenta          | 10202         | A00-P6     | 🔨     |
-| Red              | 10200         | A00-R0     | 🔨     |
-| Maroon Red       | 10205         | A00-R2     | 🔨     |
-| Purple           | 10700         | A00-P5     | 🔨     |
-| Indigo Purple    | 10701         | A00-P2     | 🔨     |
-| Turquoise        | 10605         | A00-B5     | 🔨     |
-| Cyan             | 10603         | A00-B8     | 🔨     |
-| Cobalt Blue      | 10604         | A00-B3     | 🔨     |
-| Blue             | 10601         | A09-B4     | 🔨     |
-| Brown            | 10800         | A00-N0     | 🔨     |
-| Cocoa Brown      | 10802         | A00-N1     | 🔨     |
-| Bronze           | 10801         | A00-Y3     | 🔨     |
-| Gray             | 10103         | A00-D0     | 🔨     |
-| Silver           | 10102         | A00-D1     | 🔨     |
-| Blue Grey        | 10602         | A00-B1     | 🔨     |
-| Dark Gray        | 10105         | A00-D3     | 🔨     |
-| Black            | 10101         | A00-K0     | 🔨     |
+| Color                          | Filament Code | Variant ID | Status |
+| -------------------------------| ------------- | ---------- | ------ |
+| Aqua Blue                       | 3000          | A00-R0     | 🔨     |
+| Army Green                      | 3001          | A00-R0     | 🔨     |
+| Blue                            | 3002          | A00-R0     | 🔨     |
+| Brown                           | 3003          | A00-R0     | 🔨     |
+| Camel Beige                     | 3004          | A00-R0     | 🔨     |
+| Cherry Red                      | 3005          | A00-R0     | 🔨     |
+| Chocolate Brown                 | 3006          | A00-R0     | 🔨     |
+| Cold White                      | 3007          | A00-R0     | 🔨     |
+| Cool Grey                       | 3008          | A00-R0     | 🔨     |
+| Dark Blue                       | 3009          | A00-R0     | 🔨     |
+| Dark Stone                      | 3010          | A00-R0     | 🔨     |
+| Dino Green                      | 3011          | A00-R0     | 🔨     |
+| Flame Orange                    | 3012          | A00-R0     | 🔨     |
+| Gecko Green                     | 3013          | A00-R0     | 🔨     |
+| Ghost White                     | 3014          | A00-R0     | 🔨     |
+| Hot Pink                        | 3015          | A00-R0     | 🔨     |
+| Lavender Purple                 | 3016          | A00-R0     | 🔨     |
+| Leaf Green                      | 3017          | A00-R0     | 🔨     |
+| Leather Brown                   | 3018          | A00-R0     | 🔨     |
+| Light Stone                     | 3019          | A00-R0     | 🔨     |
+| Magenta                         | 3020          | A00-R0     | 🔨     |
+| Mailbox Red                     | 3021          | A00-R0     | 🔨     |
+| Marine Blue                     | 3022          | A00-R0     | 🔨     |
+| Midnight Black                  | 3023          | A00-R0     | 🔨     |
+| Moss Green                      | 3024          | A00-R0     | 🔨     |
+| Mystic Blue                     | 3025          | A00-R0     | 🔨     |
+| Neon Yellow                     | 3026          | A00-R0     | 🔨     |
+| Normal Blue                     | 3027          | A00-R0     | 🔨     |
+| Nuclear Green                   | 3028          | A00-R0     | 🔨     |
+| Nude Color                      | 3029          | A00-R0     | 🔨     |
+| Pearl Copper                    | 3030          | A00-R0     | 🔨     |
+| Pearl Nature                    | 3031          | A00-R0     | 🔨     |
+| Pearl Purplish Red              | 3032          | A00-R0     | 🔨     |
+| Pearl Red Brown                 | 3033          | A00-R0     | 🔨     |
+| Pink                            | 3034          | A00-R0     | 🔨     |
+| Pirate Black                    | 3035          | A00-R0     | 🔨     |
+| Purple                          | 3036          | A00-R0     | 🔨     |
+| Ruby Red                        | 3037          | A00-R0     | 🔨     |
+| Safety Orange                   | 3038          | A00-R0     | 🔨     |
+| Signal Yellow                   | 3039          | A00-R0     | 🔨     |
+| Slate Grey                      | 3040          | A00-R0     | 🔨     |
+| Snow White                      | 3041          | A00-R0     | 🔨     |
+| Steel Blue                      | 3042          | A00-R0     | 🔨     |
+| Sun Yellow                      | 3043          | A00-R0     | 🔨     |
+| Sunrise Yellow                  | 3044          | A00-R0     | 🔨     |
+| Terminator Grey                 | 3045          | A00-R0     | 🔨     |
+| Transparent Black               | 3046          | A00-R0     | 🔨     |
+| Transparent Blue                | 3047          | A00-R0     | 🔨     |
+| Transparent color 302hk         | 3048          | A00-R0     | 🔨     |
+| Transparent Green               | 3049          | A00-R0     | 🔨     |
+| Transparent Light Grey          | 3050          | A00-R0     | 🔨     |
+| Transparent Orange              | 3051          | A00-R0     | 🔨     |
+| Transparent Red                 | 3052          | A00-R0     | 🔨     |
+| Transparent Yellow              | 3053          | A00-R0     | 🔨     |
+| Unicorn Pink                    | 3054          | A00-R0     | 🔨     |
+| Water Blue                      | 3055          | A00-R0     | 🔨     |
+
 #### PLA Basic
 
 | Color            | Filament Code | Variant ID | Status |
