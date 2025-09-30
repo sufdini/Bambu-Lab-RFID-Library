@@ -21,42 +21,42 @@ Status Icon Legend:
 - ✅: Have tag data
 - ❌: No tag scanned
 - ⚠️: See notes
+- 🔨: Testing
 - ⏳: Tag data is for an older version of material
 
 ### PLA
 | Color            | Filament Code | Variant ID | Status |
 | ---------------- | ------------- | ---------- | ------ |
-| Jade White       | 10100         | A00-W1     | ❌     |
-| Beige            | 10201         | A00-P0     | ❌     |
-| Light Gray       | 10104         | A00-D2     | ❌     |
-| Yellow           | 10400         | A00-Y0     | ❌     |
-| Sunflower Yellow | 10402         | A00-Y2     | ❌     |
-| Pumpkin Orange   | 10301         | A00-A1     | ❌     |
-| Orange           | 10300         | A00-A0     | ❌     |
-| Gold             | 10401         | A00-Y4     | ❌     |
-| Bright Green     | 10503         | A00-G3     | ❌     |
-| Bambu Green      | 10501         | A00-G1     | ❌     |
-| Mistletoe Green  | 10502         | A00-G2     | ❌     |
-| Pink             | 10203         | A00-A0     | ❌     |
-| Hot Pink         | 10204         | A00-R3     | ❌     |
-| Magenta          | 10202         | A00-P6     | ❌     |
-| Red              | 10200         | A00-R0     | ❌     |
-| Maroon Red       | 10205         | A00-R2     | ❌     |
-| Purple           | 10700         | A00-P5     | ❌     |
-| Indigo Purple    | 10701         | A00-P2     | ❌     |
-| Turquoise        | 10605         | A00-B5     | ❌     |
-| Cyan             | 10603         | A00-B8     | ❌     |
-| Cobalt Blue      | 10604         | A00-B3     | ❌     |
-| Blue             | 10601         | A09-B4     | ❌     |
-| Brown            | 10800         | A00-N0     | ❌     |
-| Cocoa Brown      | 10802         | A00-N1     | ❌     |
-| Bronze           | 10801         | A00-Y3     | ❌     |
-| Gray             | 10103         | A00-D0     | ❌     |
-| Silver           | 10102         | A00-D1     | ❌     |
-| Blue Grey        | 10602         | A00-B1     | ❌     |
-| Dark Gray        | 10105         | A00-D3     | ❌     |
-| Black            | 10101         | A00-K0     | ❌     |
-
+| Jade White       | 10100         | A00-W1     | 🔨     |
+| Beige            | 10201         | A00-P0     | 🔨     |
+| Light Gray       | 10104         | A00-D2     | 🔨     |
+| Yellow           | 10400         | A00-Y0     | 🔨     |
+| Sunflower Yellow | 10402         | A00-Y2     | 🔨     |
+| Pumpkin Orange   | 10301         | A00-A1     | 🔨     |
+| Orange           | 10300         | A00-A0     | 🔨     |
+| Gold             | 10401         | A00-Y4     | 🔨     |
+| Bright Green     | 10503         | A00-G3     | 🔨     |
+| Bambu Green      | 10501         | A00-G1     | 🔨     |
+| Mistletoe Green  | 10502         | A00-G2     | 🔨     |
+| Pink             | 10203         | A00-A0     | 🔨     |
+| Hot Pink         | 10204         | A00-R3     | 🔨     |
+| Magenta          | 10202         | A00-P6     | 🔨     |
+| Red              | 10200         | A00-R0     | 🔨     |
+| Maroon Red       | 10205         | A00-R2     | 🔨     |
+| Purple           | 10700         | A00-P5     | 🔨     |
+| Indigo Purple    | 10701         | A00-P2     | 🔨     |
+| Turquoise        | 10605         | A00-B5     | 🔨     |
+| Cyan             | 10603         | A00-B8     | 🔨     |
+| Cobalt Blue      | 10604         | A00-B3     | 🔨     |
+| Blue             | 10601         | A09-B4     | 🔨     |
+| Brown            | 10800         | A00-N0     | 🔨     |
+| Cocoa Brown      | 10802         | A00-N1     | 🔨     |
+| Bronze           | 10801         | A00-Y3     | 🔨     |
+| Gray             | 10103         | A00-D0     | 🔨     |
+| Silver           | 10102         | A00-D1     | 🔨     |
+| Blue Grey        | 10602         | A00-B1     | 🔨     |
+| Dark Gray        | 10105         | A00-D3     | 🔨     |
+| Black            | 10101         | A00-K0     | 🔨     |
 #### PLA Basic
 
 | Color            | Filament Code | Variant ID | Status |
