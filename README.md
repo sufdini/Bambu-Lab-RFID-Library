@@ -24,7 +24,7 @@ Status Icon Legend:
 - 🔨: Testing
 - ⏳: Tag data is for an older version of material
 
-### PLA
+### 3DE Premium PLA 
 | Color            | Filament Code | Variant ID | Status |
 | ---------------- | ------------- | ---------- | ------ |
 | Jade White       | 10100         | A00-W1     | 🔨     |
