@@ -24,7 +24,7 @@ Status Icon Legend:
 - 🔨: Testing
 - ⏳: Tag data is for an older version of material
 
-### 3DE Premium PLA 
+### 3DE Premium PLA Openspool
 | Color                          | Filament Code | Variant ID | Status |
 | -------------------------------| ------------- | ---------- | ------ |
 | Aqua Blue                       | 3000          | A50-P0     | 🔨     |
@@ -83,6 +83,66 @@ Status Icon Legend:
 | Transparent Yellow              | 3053          | A50-P53    | 🔨     |
 | Unicorn Pink                    | 3054          | A50-P54    | 🔨     |
 | Water Blue                      | 3055          | A50-P55    | 🔨     |
+
+### 3DE Premium PLA 
+| Color                          | Filament Code | Variant ID | Status |
+| -------------------------------| ------------- | ---------- | ------ |
+| Aqua Blue                       | 3000          | A50-P0     | ❌     |
+| Army Green                      | 3001          | A50-P1     | ❌     |
+| Blue                            | 3002          | A50-P2     | ❌     |
+| Brown                           | 3003          | A50-P3     | ❌     |
+| Camel Beige                     | 3004          | A50-P4     | ❌     |
+| Cherry Red                      | 3005          | A50-P5     | ❌     |
+| Chocolate Brown                 | 3006          | A50-P6     | ❌     |
+| Cold White                      | 3007          | A50-P7     | ❌     |
+| Cool Grey                       | 3008          | A50-P8     | ❌     |
+| Dark Blue                       | 3009          | A50-P9     | ❌     |
+| Dark Stone                      | 3010          | A50-P10    | ❌     |
+| Dino Green                      | 3011          | A50-P11    | ❌     |
+| Flame Orange                    | 3012          | A50-P12    | ❌     |
+| Gecko Green                     | 3013          | A50-P13    | ❌     |
+| Ghost White                     | 3014          | A50-P14    | ❌     |
+| Hot Pink                        | 3015          | A50-P15    | ❌     |
+| Lavender Purple                 | 3016          | A50-P16    | ❌     |
+| Leaf Green                      | 3017          | A50-P17    | ❌     |
+| Leather Brown                   | 3018          | A50-P18    | ❌     |
+| Light Stone                     | 3019          | A50-P19    | ❌     |
+| Magenta                         | 3020          | A50-P20    | ❌     |
+| Mailbox Red                     | 3021          | A50-P21    | ❌     |
+| Marine Blue                     | 3022          | A50-P22    | ❌     |
+| Midnight Black                  | 3023          | A50-P23    | ❌     |
+| Moss Green                      | 3024          | A50-P24    | ❌     |
+| Mystic Blue                     | 3025          | A50-P25    | ❌     |
+| Neon Yellow                     | 3026          | A50-P26    | ❌     |
+| Normal Blue                     | 3027          | A50-P27    | ❌     |
+| Nuclear Green                   | 3028          | A50-P28    | ❌     |
+| Nude Color                      | 3029          | A50-P29    | ❌     |
+| Pearl Copper                    | 3030          | A50-P30    | ❌     |
+| Pearl Nature                    | 3031          | A50-P31    | ❌     |
+| Pearl Purplish Red              | 3032          | A50-P32    | ❌     |
+| Pearl Red Brown                 | 3033          | A50-P33    | ❌     |
+| Pink                            | 3034          | A50-P34    | ❌     |
+| Pirate Black                    | 3035          | A50-P35    | ❌     |
+| Purple                          | 3036          | A50-P36    | ❌     |
+| Ruby Red                        | 3037          | A50-P37    | ❌     |
+| Safety Orange                   | 3038          | A50-P38    | ❌     |
+| Signal Yellow                   | 3039          | A50-P39    | ❌     |
+| Slate Grey                      | 3040          | A50-P40    | ❌     |
+| Snow White                      | 3041          | A50-P41    | ❌     |
+| Steel Blue                      | 3042          | A50-P42    | ❌     |
+| Sun Yellow                      | 3043          | A50-P43    | ❌     |
+| Sunrise Yellow                  | 3044          | A50-P44    | ❌     |
+| Terminator Grey                 | 3045          | A50-P45    | ❌     |
+| Transparent Black               | 3046          | A50-P46    | ❌     |
+| Transparent Blue                | 3047          | A50-P47    | ❌     |
+| Transparent color 302hk         | 3048          | A50-P48    | ❌     |
+| Transparent Green               | 3049          | A50-P49    | ❌     |
+| Transparent Light Grey          | 3050          | A50-P50    | ❌     |
+| Transparent Orange              | 3051          | A50-P51    | ❌     |
+| Transparent Red                 | 3052          | A50-P52    | ❌     |
+| Transparent Yellow              | 3053          | A50-P53    | ❌     |
+| Unicorn Pink                    | 3054          | A50-P54    | ❌     |
+| Water Blue                      | 3055          | A50-P55    | ❌     |
 
 #### PLA Basic
 
