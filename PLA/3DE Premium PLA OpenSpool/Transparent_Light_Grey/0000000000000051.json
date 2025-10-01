@@ -1,0 +1,13 @@
+{
+    "protocol": "openspool",
+    "version": "1.0",
+    "type": "PLA",
+    "color_hex": "FFAABB",
+    "brand": "3DE Premium PLA",
+    "min_temp": "200",
+    "max_temp": "220",
+    "tag_uid": "0000000000000051",
+    "filament_code": "3050",
+    "variant_id": "A50-P50",
+    "color": "Transparent Light Grey"
+}

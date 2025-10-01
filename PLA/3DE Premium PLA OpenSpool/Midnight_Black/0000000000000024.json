@@ -1,0 +1,13 @@
+{
+    "protocol": "openspool",
+    "version": "1.0",
+    "type": "PLA",
+    "color_hex": "FFAABB",
+    "brand": "3DE Premium PLA",
+    "min_temp": "200",
+    "max_temp": "220",
+    "tag_uid": "0000000000000024",
+    "filament_code": "3023",
+    "variant_id": "A50-P23",
+    "color": "Midnight Black"
+}
